@@ -7,7 +7,7 @@ A Java application built with clean, object-oriented design.
 
 ## 📌 About
 
-Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
+Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solve.
 
 ## ✨ Features
 
